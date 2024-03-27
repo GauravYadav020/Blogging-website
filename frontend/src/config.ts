@@ -1,1 +1,1 @@
-export const BACKEND_URL = " https://blogging-website.itsgaurav6817.workers.dev"
+export const BACKEND_URL = "https://blogging-website.itsgaurav6817.workers.dev"
